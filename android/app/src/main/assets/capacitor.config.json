@@ -1,0 +1,9 @@
+{
+	"appId": "com.neighborhood.service",
+	"appName": "邻里智享服务",
+	"webDir": "dist",
+	"server": {
+		"androidScheme": "https"
+	},
+	"android": {}
+}
